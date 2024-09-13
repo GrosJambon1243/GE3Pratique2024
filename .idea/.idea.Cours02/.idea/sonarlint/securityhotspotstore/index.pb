@@ -23,3 +23,9 @@ S
 #Source/Cours02/Private/DoorSwitch.h,f\0\f07d46b776d8666e385cdd86ce9207960245d91d
 U
 %Source/Cours02/Private/DoorSwitch.cpp,a\4\a421b4c59e4c3f504e2ddb90591e296d967ea06c
+R
+"Source/Cours02/Private/LaserTrap.h,2\f\2f8818395d0ee8eaa028d43f80017309b92e3d6d
+T
+$Source/Cours02/Private/LaserTrap.cpp,d\d\dd6be7487ea5cfab7045913230f4d67f892fdeac
+¦
+vProgram Files/Epic Games/UE_5.4/Engine/Source/Programs/AutomationTool/Gauntlet/Platform/Windows/Gauntlet.WindowsPGO.cs,9\5\954d21bfd77466793d68d03e5725faf4cc1fc3f6
